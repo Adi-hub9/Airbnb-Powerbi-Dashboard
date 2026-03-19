@@ -220,9 +220,6 @@ This project demonstrates:
 * Extracting **business insights from large datasets**
 
 ---
+# 7. Screenshots / Demo
 
-If you want, I can also:
-
-* Make this **resume-ready (1–2 lines version)**
-* Create a **GitHub README with badges like your previous one**
-* Or tailor it specifically for **placements / internships** 🚀
+![Alt text for the image](https://github.com/Adi-hub9/Excel_Project/blob/main/Excel_Project_ss.png)
