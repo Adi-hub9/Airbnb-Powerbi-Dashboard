@@ -222,4 +222,4 @@ This project demonstrates:
 ---
 # 7. Screenshots / Demo
 
-![Alt text for the image](https://github.com/Adi-hub9/Excel_Project/blob/main/Excel_Project_ss.png)
+![Alt text for the image](https://github.com/Adi-hub9/Airbnb-Powerbi-Dashboard/blob/main/Airbnb.pdf)
