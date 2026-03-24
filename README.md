@@ -6,8 +6,6 @@
 
 An interactive **Power BI dashboard** designed to analyze global Airbnb data, including listings, pricing, reviews, and host performance. The dashboard provides insights into **market trends, customer behavior, and city-level performance** to support data-driven decision-making in the hospitality industry.
 
----
-
 # 2. Short Description / Purpose
 
 The **Airbnb Dashboard** is a data analytics project built using Power BI to explore global Airbnb listings and uncover key business insights.
@@ -20,8 +18,6 @@ This project demonstrates how **Power BI can transform large-scale datasets into
 
 The dashboard is useful for **business analysts, travel industry professionals, investors, and data enthusiasts**.
 
----
-
 # 3. Tech Stack
 
 The project was built using the following tools and techniques:
@@ -31,8 +27,6 @@ The project was built using the following tools and techniques:
 * **📊 DAX (Data Analysis Expressions)** – Used for calculated measures and KPIs
 * **📉 Interactive Visualizations** – Line charts, bar charts, and KPI cards
 * **🌍 Dashboard Design** – Clean and interactive layout with filters and drilldowns
-
----
 
 # 4. Data Source
 
@@ -51,8 +45,6 @@ The dataset contains **global Airbnb data across multiple cities and years**.
 
 The data was analyzed and transformed using **Power BI to generate insights and trends**.
 
----
-
 # 5. Features / Highlights
 
 ## Business Problem
@@ -66,8 +58,6 @@ The global short-term rental market is highly competitive, with millions of list
 
 can be challenging without proper visualization.
 
----
-
 ## Goal of the Dashboard
 
 The main objectives are to:
@@ -77,8 +67,6 @@ The main objectives are to:
 * Understand **pricing differences across property types**
 * Evaluate **customer behavior and review patterns**
 * Provide insights into **host trust and verification**
-
----
 
 ## Walkthrough of Key Visuals
 
@@ -94,8 +82,6 @@ The dashboard highlights:
 
 These KPIs give a quick overview of Airbnb’s global scale.
 
----
-
 ### Listings Growth Trend
 
 A time-series chart showing Airbnb’s growth from **2008 to 2020**:
@@ -104,16 +90,12 @@ A time-series chart showing Airbnb’s growth from **2008 to 2020**:
 * Slight decline due to regulations (2016–2017)
 * Growth stabilization before **COVID-19 impact**
 
----
-
 ### Market Share by City
 
 This visualization shows how listings and reviews are distributed across major cities:
 
 * **Paris, New York, and Sydney** dominate the market
 * These cities contribute significantly to total listings and reviews
-
----
 
 ### Pricing Analysis
 
@@ -124,8 +106,6 @@ A comparison of **average prices by property type**:
 * Shared rooms are the most affordable
 
 This helps understand **pricing strategy across accommodation types**.
-
----
 
 ### Ratings & Customer Satisfaction
 
@@ -142,8 +122,6 @@ Key insight:
 * **Mexico City and Rio** have the highest ratings
 * **Hong Kong and Istanbul** show relatively lower scores
 
----
-
 ### Review Frequency Analysis
 
 A distribution chart showing how often customers leave reviews:
@@ -151,8 +129,6 @@ A distribution chart showing how often customers leave reviews:
 * Majority of users review only **once**
 * **98.8% of users review 3 times or less**
 * Indicates low repeat engagement in reviews
-
----
 
 ### Seasonality Trends
 
@@ -163,8 +139,6 @@ Monthly review trends highlight travel patterns:
 
 This shows how **tourism demand varies by season and location**.
 
----
-
 ### Host Trust & Verification
 
 Analysis of host credibility:
@@ -173,39 +147,27 @@ Analysis of host credibility:
 * Most listings include at least one trust signal
 * Very few anonymous or unverified profiles
 
----
-
 # 6. Business Impact & Insights
 
 ## Market Insights
 
 The dashboard identifies **top-performing cities** and reveals how Airbnb demand varies globally.
 
----
-
 ## Pricing Strategy
 
 Understanding price differences across property types helps in **competitive pricing and revenue optimization**.
-
----
 
 ## Customer Behavior
 
 Insights into review patterns and ratings help improve **customer experience and service quality**.
 
----
-
 ## Seasonal Planning
 
 Seasonality trends enable better **travel planning, marketing campaigns, and pricing adjustments**.
 
----
-
 ## Trust & Platform Reliability
 
 High host verification rates indicate strong **platform trust and user confidence**.
-
----
 
 ## Educational Value
 
@@ -215,7 +177,6 @@ This project demonstrates:
 * Building **interactive dashboards**
 * Extracting **business insights from large datasets**
 
----
 # 7. Screenshots / Demo
 
 ![Alt text for the image](https://github.com/Adi-hub9/Airbnb-Powerbi-Dashboard/blob/main/Airbnb1.png)
