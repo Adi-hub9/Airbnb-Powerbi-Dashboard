@@ -222,4 +222,4 @@ This project demonstrates:
 ---
 # 7. Screenshots / Demo
 
-![Alt text for the image](https://github.com/Adi-hub9/Airbnb-Powerbi-Dashboard/blob/main/Airbnb.pdf)
+![Alt text for the image](https://github.com/Adi-hub9/Airbnb-Powerbi-Dashboard/blob/main/Airbnb1.png)
