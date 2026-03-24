@@ -1,7 +1,3 @@
-Here’s your **Airbnb Dashboard project description** rewritten in the **same professional format** as your Road Accident project 👇
-
----
-
 # 📊 Global Airbnb Performance Dashboard (Power BI Project)
 
 ## 1. Project Title / Headline
